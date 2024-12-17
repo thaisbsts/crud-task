@@ -25,7 +25,7 @@ Na POO, os objetos são instâncias de classes, que definem as características 
 
 Este projeto consiste em desenvolver uma classe utilizando o paradigma de Programação Orientada a Objetos (POO). A classe permitirá ao usuário realizar operações básicas de gerenciamento de dados em dicionários: Create (criar), Read (ler), Update (atualizar) e Delete (excluir) — seguindo o padrão CRUD. A interação com o usuário foi implementada via terminal.
 
-No meu projeto, eu fiz um gerenciador de tarefas. A classe Tarefa foi implementada com atributos como ID, nome, prazo e urgência. Essa classe inclui métodos para criar uma nova tarefa, editar suas informações, mostrar todas as tarefas existentes e deletar uma tarefa específica. As tarefas são armazenadas em uma lista de dicionários, conforme orientado no enunciado.
+No meu projeto, eu fiz um gerenciador de tarefas. A classe Tarefa foi implementada com atributos como ID, nome, prazo e urgência. Essa classe inclui métodos para criar uma nova tarefa, editar suas informações, mostrar todas as tarefas existentes e deletar uma tarefa específica. As tarefas são armazenadas em uma lista de dicionários, conforme os requisitos do projeto.
 
 <h2 id="helpful">🔗 Links úteis</h2>
 
